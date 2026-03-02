@@ -1,5 +1,4 @@
 # Lesson 3 - Variables
-
 ## Recap 1: Pseudo Code Practice
 Write a pseudocode that calculates the average score of the 4
 students:

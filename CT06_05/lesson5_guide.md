@@ -17,7 +17,7 @@ message.
 ### Sample output:
 "Happy <Age>th birthday <Name>! <Message>"
 
----------------------------------------------------------------
+----------------------------------------------------------------
 
 ## Task 1: Name Cheer
 
@@ -60,7 +60,7 @@ Using the 'for' loop, print the following sentences sequence
 
 ---------------------------------------------------------------
 
-## Task 4: range(stop)
+# Task 4: range(stop)#
 
 Using the 'for' loop, print the numbers from 0 - 59
 

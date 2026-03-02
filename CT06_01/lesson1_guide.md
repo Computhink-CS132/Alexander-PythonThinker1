@@ -5,7 +5,7 @@
 2. Run the program by clicking on the "Run" button.
 3. What do you see in the "Console" on the right side?
 
---------------------------------------------------------------
+---------------------------------------------------------------
 
 ## Task 2: Change main.py to run lesson1.py file
 All replit projects run from main.py.

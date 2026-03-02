@@ -13,7 +13,7 @@ Green = $3
 You have ordered a total of 3 red plates, 5 blue plates, and 4
 green plates.
 
-Calculate and print the total amount you have spent: -->
+Calculate and print the total amount you have spent: --->
 
 ---------------------------------------------------------------
 

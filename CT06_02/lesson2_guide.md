@@ -7,7 +7,7 @@ Task:
 2. Then, comment out every other line except for your
    favourite colour.
 
---------------------------------------------------------
+---------------------------------------------------------
 
 ## Task 1: Solve the problem in pseudocode
 **Task 1a**:

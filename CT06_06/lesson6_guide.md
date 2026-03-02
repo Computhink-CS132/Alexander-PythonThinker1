@@ -12,7 +12,7 @@ each student one at a time.
 Use only variables, math operators that you have learnt, as
 well as a 'for' loop.
 
----------------------------------------------------------------
+----------------------------------------------------------------
 
 ## Task 1: Syntax Errors
 Fix the errors in the following:
@@ -50,7 +50,7 @@ print(nam)
 print(x)
 x = 5
 
-**Task 2d**:
+**Task 2d*:
 pint("Hello, World!")
 
 ---------------------------------------------------------------
@@ -60,7 +60,7 @@ Fix the errors in the following:
 
 **Task 3a**:
 age = "25"
-print(age + 1)
+print(age + 1*)
 
 **Task 3b**:
 number = 10
